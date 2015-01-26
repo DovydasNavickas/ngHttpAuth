@@ -1,0 +1,30 @@
+{
+  "author": "QuatroDev",
+  "name": "ngHttpAuth",
+  "version": "1.0.0",
+  "homepage": "https://github.com/witoldsz/angular-http-auth",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dovydasnavickas/ngHttpAuth.git"
+  },
+  "main": "./src/ngHttpAuth.js",
+  "dependencies": {
+    "angular": "^1.3.0"
+  },
+  "authors": [
+    "QuatroDev"
+  ],
+  "description": "Angular HTTP Authentication module",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "AGPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
